@@ -1,0 +1,11 @@
+volcano_id,name,height,active
+11,Antofalla,6409,false
+12,Coropuna,6377,true
+13,Parinacota,6348,true
+14,Ampato,6288,true
+15,Pomerape,6282,false
+16,Chimborazo,6263,true
+17,Cerro Solo,6205,false
+18,Cerro Ermitaño,6187,false
+19,Aucanquilcha,6176,false
+20,San Pedro,6145,true
